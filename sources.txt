@@ -1,0 +1,2 @@
+./src/jeuCoreWar/*/*.java
+./src/jeuCoreWar/Main.java
